@@ -82,7 +82,7 @@ const DATA = {
     items: [
       { icon: "📧", label: "Email", value: "apbintang52@gmail.com", link: "mailto:apbintang52@gmail.com" },
       { icon: "💼", label: "LinkedIn", value: "linkedin.com/in/bintang-ap", link: "https://www.linkedin.com/in/bintang-ap-8553b5441/" },
-      { icon: "💻", label: "GitHub", value: "github.com/username", link: "https://github.com/username" },
+      { icon: "💻", label: "GitHub", value: "github.com/Bintang-Ap", link: "https://github.com/Bintang-Ap" },
       { icon: "📄", label: "CV", value: "Download CV", link: "https://drive.google.com/file/d/1mu_jK5X_8AD1qIfd4mimPwSDV7dsuo7W/view?usp=drivesdk" }, // ganti "#" dengan link CV kamu
     ],
     buttonText: "Kirim Pesan",
