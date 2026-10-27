@@ -1,5 +1,4 @@
-/* script.js — membaca data dari data.js lalu membuat tampilan website.
-   Kamu tidak perlu mengedit file ini untuk mengganti isi. */
+
 
 const $ = (id) => document.getElementById(id);
 
